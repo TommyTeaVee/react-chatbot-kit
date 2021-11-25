@@ -17,8 +17,8 @@
     "prepare": "yarn run build"
   },
   "author": {
-    "name": "Fredrik Strand Oseberg",
-    "email": "fredrik.no@gmail.com"
+    "name": "TommyTeaVee",
+    "email": "fihlatv@gmail.com"
   },
   "devDependencies": {
     "@types/react": "^17.0.21",
